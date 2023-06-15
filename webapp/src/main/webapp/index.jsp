@@ -34,7 +34,7 @@
   </div>
 
 
-   <h1> Thank You For Watching my Demo </h1>
+   <h1> Thank You For Watching My Pipeline Demo </h1>
 
 
 </form>
