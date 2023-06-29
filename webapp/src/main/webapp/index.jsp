@@ -34,7 +34,7 @@
   </div>
 
 
-   <h1> Thank You For Watching My Demo... Hope You Enjoyed... </h1>
+   <h1> Thank You For Watching My Demo... </h1>
 
 
 </form>
