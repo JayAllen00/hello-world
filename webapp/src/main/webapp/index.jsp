@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New User Register For DevOps Classes 2023</h1>
+    <h1>User Register For DevOps Classes 2023</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
@@ -34,7 +34,7 @@
   </div>
 
 
-   <h1> Thank You For Watching My Demo.... </h1>
+   <h1> Thank You, Hope you enjoyed my demo... </h1>
 
 
 </form>
